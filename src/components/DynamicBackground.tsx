@@ -1,6 +1,5 @@
-import { motion, useScroll, useTransform, useSpring } from "motion/react";
+import { motion } from "framer-motion";
 import { useEffect, useState, useRef } from "react";
-
 export const DynamicBackground = () => {
   return (
     <div className="dynamic-bg fixed inset-0 z-[-1] overflow-hidden bg-black pointer-events-none transition-transform duration-700">

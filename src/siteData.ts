@@ -18,8 +18,7 @@ export const siteData = {
     { label: "04_核心成员", href: "#team" }
   ],
   finalVisual: {
-    image: "https://cdn.discordapp.com/attachments/1488897266340204566/1490814296547135660/ww.jpg?ex=69d56c82&is=69d41b02&hm=24baa7f8b47ccee4c47f432b9c366fe9fb9206003695326d980ac04477a1ff3c"
-  },
+image: "/13.jpg"  },
   hero: {
     title: ["Suicide", "Pact"]
   },
@@ -39,14 +38,14 @@ export const siteData = {
       description: ""
     },
 posters: [
-  { id: 1, title: "...", date: "2025.11/14", image: "/1.jpg" },
-  { id: 2, title: "...", date: "02/27", image: "/2.jpg" },
-  { id: 3, title: "...", date: "2025/11/1", image: "/3.jpg" },
-  { id: 4, title: "...", date: "2025/9/27", image: "/4.jpg" },
-  { id: 5, title: "...", date: "12/31", image: "/5.jpg" },
-  { id: 6, title: "...", date: "2025/08/01", image: "/6.jpg" },
-  { id: 7, title: "...", date: "2025/06/10", image: "/7.jpg" },
-  { id: 8, title: "...", date: "10/16", image: "/8.jpg" }
+  { id: 1, title: " Suicide Pact 一周年 柏林暗黑女皇Elen Payne将用Hardcore音墙砌筑通往异世界的新台阶", date: "2025.11/14", image: "/5.jpg" },
+  { id: 2, title: "Suicide Pact 狂暴法兰西Évasion 180+", date: "02/27", image: "/4.jpg" },
+  { id: 3, title: "Suicide Pact X 黑宫  夜·血·涌动 一场感官解构的隐秘仪式即将开启", date: "2025/11/1", image: "/7.jpg" },
+  { id: 4, title: "【CULT MASK 异教崇拜】", date: "2025/9/27", image: "/6.jpg" },
+  { id: 5, title: "「SuicidePact」X「黑宫」跨年呈现:蛇蜕新序", date: "12/31", image: "/8.jpg" },
+  { id: 6, title: "恨铁 x Siip在昆明出击", date: "2025/08/01", image: "/3.jpg" },
+  { id: 7, title: "OIL音响系统 危 极限接近Redline的硬核实验电子厂牌展示统治力", date: "2025/03/20", image: "/2.jpg" },
+  { id: 8, title: "【晚场22:30】Suicide Pact x 暗的光「OnyxEuro」", date: "10/16", image: "/1.jpg" }
 ]  },
   video: {
     title: "核心_现场回顾_2025",
@@ -63,29 +62,29 @@ members: [
     id: 1,
     name: "3HREE0ERO",
     role: "Founder / DJ",
-    bio: "工业噪音与节奏结构的操控者。",
-    image: "/10.jpg"
+    bio: "Suicide pact（fka Suicide Pact）发起人/暗黑执剑者用极端频率撕开理性世界的裂缝。他的set是血肉与钢铁的绞杀场：高压BPM、扭曲的工业嘶吼血腥味弥漫的合成器穿刺，构建出暴力而精确的听觉刑具。  当他的音轨开始咆哮，舞池即沦为献祭仪式——要么在崩溃边缘尖叫，要么被节奏碾碎成渣",
+    image: "/9.jpg"
   },
   {
     id: 2,
     name: "9S*",
     role: "DJ",
-    bio: "黑暗频率驱动的舞池控制。",
+    bio: "出生在古典音乐世家的9S*，在历经无数声音浪潮推动、优秀艺术家/制作人的启发后，展现出独特的音乐思维。他将重心放在耕耘律动文化关联与全局能量管理。以抛弃目的性，让身体被自然吸收的音乐波纹带动为本源，将属于他的时间赋予异色。9S*擅于将冷硬工业，恍惚的出神感融于独特的声景构造中，以Industrial/HardGroove/HardTechno/Hypnotic/EBM为轴，勾勒出兼具邪典美学与艺术张力的音乐氛围。",
     image: "/11.jpg"
   },
   {
     id: 3,
     name: "275511",
-    role: "Live Set",
-    bio: "模块合成器实验主义。",
+    role: "DJ",
+    bio: "来自Suicide pact可千万别盯着这串数字看 这可是一个神秘的代码？ 腐蚀性频率为武器 在极端BPM中切割情绪断层 当这串代码出现在混音台 意味着标准节拍将被拆解 你的听觉将接受极端电压的重新编程 ",
     image: "/12.jpg"
   },
   {
     id: 4,
     name: "拿电锯的猫",
-    role: "Visual / Noise",
-    bio: "视觉与声音的暴力融合。",
-    image: "/1.jpg"
+    role: "Visual ",
+    bio: "视觉与声音的暴力融合 当感官被折叠，我们在混沌里看见自己。",
+    image: "/10.jpg"
   }
 ]  },
   social: [
