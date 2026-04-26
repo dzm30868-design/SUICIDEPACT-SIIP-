@@ -1,4 +1,4 @@
-import { motion, useScroll, useTransform, AnimatePresence } from "motion/react";
+import { motion, useScroll, useTransform, AnimatePresence } from "framer-motion"
 import React, { useRef, useState, useEffect } from "react";
 import { 
   Zap, 

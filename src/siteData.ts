@@ -62,21 +62,29 @@ members: [
   {
     id: 1,
     name: "3HREE0ERO",
+    role: "Founder / DJ",
+    bio: "工业噪音与节奏结构的操控者。",
     image: "/10.jpg"
   },
   {
     id: 2,
     name: "9S*",
+    role: "DJ",
+    bio: "黑暗频率驱动的舞池控制。",
     image: "/11.jpg"
   },
   {
     id: 3,
     name: "275511",
+    role: "Live Set",
+    bio: "模块合成器实验主义。",
     image: "/12.jpg"
   },
   {
     id: 4,
     name: "拿电锯的猫",
+    role: "Visual / Noise",
+    bio: "视觉与声音的暴力融合。",
     image: "/1.jpg"
   }
 ]  },
